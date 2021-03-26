@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="238" cy="219" rx="238" ry="219" transform="translate(722 306)" fill="#ce7502"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(828 407)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="132" cy="118.5" rx="132" ry="118.5" stroke="none"/>
+      <ellipse cx="132" cy="118.5" rx="131.5" ry="118" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="132.5" cy="124.5" rx="132.5" ry="124.5" transform="translate(1066 144)" fill="#ce7502"/>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1134 207)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="65" cy="62" rx="65" ry="62" stroke="none"/>
+      <ellipse cx="65" cy="62" rx="64.5" ry="61.5" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="132.5" cy="124.5" rx="132.5" ry="124.5" transform="translate(590 144)" fill="#ce7502"/>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(658 207)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="65" cy="62" rx="65" ry="62" stroke="none"/>
+      <ellipse cx="65" cy="62" rx="64.5" ry="61.5" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(895 463)" fill="#ce7502" stroke="#707070" stroke-width="1">
+      <ellipse cx="65" cy="62" rx="65" ry="62" stroke="none"/>
+      <ellipse cx="65" cy="62" rx="64.5" ry="61.5" fill="none"/>
+    </g>
+    <text id="Flux_Technologies_" data-name="Flux Technologies
+" transform="translate(502 871)" fill="#ce7002" font-size="100" font-family="SegoeScript, Segoe Script"><tspan x="0" y="0">Flux Technologies</tspan><tspan x="0" y="159"></tspan></text>
+  </g>
+</svg>
